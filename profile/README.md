@@ -18,7 +18,7 @@ Early development. We're building in the open. Expect rough edges through 2026.
 
 ## Get involved
 
-- Read the [docs](https://castloop.ai/docs) *(coming soon)*
+- Read the [docs](https://castloop.dev/docs) *(coming soon)*
 - Watch the [devlog](https://youtube.com/@castloop) *(coming soon)*
 - Join the [Discord](https://discord.gg/castloop) *(coming soon)*
 - Follow [@castloop](https://twitter.com/castloop) *(coming soon)*
