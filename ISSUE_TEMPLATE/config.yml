@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security disclosure
+    url: https://github.com/castloop/.github/blob/main/SECURITY.md
+    about: Report a security vulnerability privately. Do not file a public issue.
+  - name: Discussion or question
+    url: https://github.com/castloop/.github/discussions
+    about: For open-ended questions, ideas, and conversation.

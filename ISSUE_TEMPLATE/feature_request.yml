@@ -1,0 +1,48 @@
+name: Feature request
+description: Suggest a capability, improvement, or change.
+title: "feat: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before filing, please check that the idea is in scope. See the architecture docs at https://github.com/castloop/docs.
+
+  - type: input
+    id: repo
+    attributes:
+      label: Target repo
+      placeholder: e.g. castloop/core, castloop/unreal
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What real-world problem does this solve? Who is affected?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: A sketch of what the change might look like.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Links, prior art, related issues.
+    validations:
+      required: false
